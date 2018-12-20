@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    .container
+        .row
+            .col-md-6.offset-3
+                h1 Edit #{note[0].title}!
+                form(method='post' action='/task?_method=PUT&id=' + note[0].Id)
+                    input(type='text' class='form-control' name='title' placeholder='Task Name' value=note[0].title)
+                    input(type='submit' class='btn btn-primary' name='' value='Edit deze taak')

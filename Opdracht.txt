@@ -1,0 +1,27 @@
+
+Hallo ADSD,
+
+Hierbij de laatste opdracht voor de module Web Development.
+In de index.js staat een kopeling naar een database.
+In deze database todoNode staat op dit moment een tabel tasks.
+Maak deze database voor je zelf aan de tabel defenitie staat ook in de directory.
+Ik heb de applicatie online gemaakt. Dus de verwijzing naar mijn directory en
+poort zullen jullie aan moeten passen naar jullie eigen gegevens. Wanneer je met
+postman alle routes gaat controleren kan je zien dat het allemaal werkt. Maak er
+nu een applicatie van die de todo app wordt. De styling en formulieren. Als je
+tijd overhebt maak er dan ook een user administratie bij. Op dit moment staat
+alleen nog de id, title, created_on en updated_on velden in de database bij tasks.
+Ik wil ook graag een description, dateToComplete, assignedTo en completed velden er
+minimaal in terug zien. De CRUD van een taak is belangrijk. Ik wil graag dat je de
+applicatie in Express met PUG maken.
+
+Bedenk:
+* hoe ga je de routes doen;
+* de format van de response is, wanneer je start in objecten.
+
+Tijdens de vakantie kun je mij alle vragen stellen via email. Ik beloof om
+binnen twee werk dagen te reageren.
+
+Uiterste inleverdatum zondag 20 januari 2019 om 21:00.
+
+Succes
